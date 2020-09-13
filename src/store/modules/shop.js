@@ -2,7 +2,6 @@ import { shopService } from "@/services";
 
 const state = {
   pageMeta: {},
-  cart: {},
   categories: [],
   products: [],
   brands: [],
